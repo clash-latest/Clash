@@ -4,32 +4,37 @@
 
 ## :dart: 活跃更新客户端
 
+### :pushpin: Clash Verge Rev
+- **下载地址**：[GitHub Releases]
+- **使用教程**：
+- **支持平台**：
+
 ---
 
 ## :warning: 已经停更客户端
 
-### ClashN
-- **下载地址**：
+### :pushpin: Clash for Windows
+- **下载地址**：[GitHub备份]
 - **使用教程**：
 - **支持平台**：
 
-### Clash for Windows
-- **下载地址**：
+### :pushpin: ClashX
+- **下载地址**：[GitHub备份]
 - **使用教程**：
 - **支持平台**：
 
-### ClashX
-- **下载地址**：
+### :pushpin: Clash for Android
+- **下载地址**：[GitHub备份]
 - **使用教程**：
 - **支持平台**：
 
-### Clash for Android
-- **下载地址**：
+### :pushpin: Clash Verge
+- **下载地址**：[GitHub备份]
 - **使用教程**：
 - **支持平台**：
 
-### Clash Verge
-- **下载地址**：
+### :pushpin: ClashN
+- **下载地址**：[GitHub备份]
 - **使用教程**：
 - **支持平台**：
 
