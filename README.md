@@ -50,17 +50,17 @@
 
 ### :pushpin: Clash for Windows
 - **下载地址**：[GitHub备份](https://github.com/clash-latest/Clash-for-Windows)
-- **使用教程**：[]()
+- **使用教程**：[https://clashforwindows.org/](https://clashforwindows.org/)
 - **支持平台**：Windows、macOS、Linux
 
 ### :pushpin: ClashX
 - **下载地址**：[GitHub备份](https://github.com/clash-latest/ClashX)
-- **使用教程**：[]()
+- **使用教程**：[https://clashx.org/](https://clashx.org/)
 - **支持平台**：macOS
 
 ### :pushpin: Clash for Android
 - **下载地址**：[GitHub备份](https://github.com/clash-latest/Clash-for-Android)
-- **使用教程**：[]()
+- **使用教程**：[https://clashforandroid.org/](https://clashforandroid.org/)
 - **支持平台**：Android
 
 ### :pushpin: Clash Verge
