@@ -14,136 +14,131 @@
   </p>
 </div>
 
-如果你觉得这个项目对你有帮助，欢迎点右上角的**Star**⭐ 支持一下！
+> 本仓库按「Clash官网资源最新版Clash下载」整理全平台入口，优先链到各项目官方 GitHub Releases；停更客户端仅作备份对照。若本页对你有用，欢迎 Star ⭐。
 
-[代理雷达](https://github.com/guiforcores/dailileida)：每日追踪 mihomo、sing-box、Xray、V2Ray、Clash 及自研内核的代理客户端：开源项目看 GitHub Star，商店应用看美区 App Store / Google Play 评分数。
-
-
-## :dart: 活跃更新客户端
-
-### :pushpin: Clash Verge Rev
-- **下载地址**：[GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
-- **使用教程**：[https://clashverge.com/](https://clashverge.com/)
-- **支持平台**：Windows、macOS、Linux
-
-### :pushpin: Clash Party
-- **下载地址**：[GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases)
-- **使用教程**：[https://clash-party.org/](https://clash-party.org/)
-- **支持平台**：Windows、macOS、Linux
-
-### :pushpin: Clash Mi
-- **下载地址**：[GitHub Releases](https://github.com/KaringX/clashmi/releases)
-- **使用教程**：[https://clash-mi.org/](https://clash-mi.org/)
-- **支持平台**：Windows、macOS、Linux、iOS、Android
-
-### :pushpin: ClashX Meta
-- **下载地址**：[GitHub Releases](https://github.com/MetaCubeX/ClashX.Meta/releases)
-- **使用教程**：[https://clashxmeta.org/](https://clashxmeta.org/)
-- **支持平台**：macOS
-
-### :pushpin: Clash Meta for Android
-- **下载地址**：[GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-- **使用教程**：[https://clashmetaforandroid.org/](https://clashmetaforandroid.org/)
-- **支持平台**：Android
-
-### :pushpin: FlClash
-- **下载地址**：[GitHub Releases](https://github.com/chen08209/FlClash/releases)
-- **使用教程**：[https://getflclash.org/](https://getflclash.org/)
-- **支持平台**：Windows、macOS、Linux、Android
-
-### :pushpin: Hiddify
-- **下载地址**：[GitHub Releases](https://github.com/hiddify/hiddify-app/releases)
-- **使用教程**：[https://gethiddify.org/](https://gethiddify.org/)
-- **支持平台**：Windows、macOS、Linux、iOS、Android
-
-### :pushpin: Clash Nyanpasu
-- **下载地址**：[GitHub Releases](https://github.com/LibNyanpasu/clash-nyanpasu/releases)
-- **使用教程**：[https://clashnyanpasu.org/](https://clashnyanpasu.org/)
-- **支持平台**：Windows、macOS、Linux
+相关：[代理雷达](https://github.com/guiforcores/dailileida)（按 Star / 商店评分追踪主流代理客户端热度）
 
 ---
 
-## :warning: 已经停更客户端
+## 一句话怎么用
 
-### :pushpin: Clash for Windows
-- **下载地址**：[GitHub备份](https://github.com/clash-latest/Clash-for-Windows)
-- **使用教程**：[https://clashforwindows.org/](https://clashforwindows.org/)
-- **支持平台**：Windows、macOS、Linux
-
-### :pushpin: ClashX
-- **下载地址**：[GitHub备份](https://github.com/clash-latest/ClashX)
-- **使用教程**：[https://clashx.org/](https://clashx.org/)
-- **支持平台**：macOS
-
-### :pushpin: Clash for Android
-- **下载地址**：[GitHub备份](https://github.com/clash-latest/Clash-for-Android)
-- **使用教程**：[https://clashforandroid.org/](https://clashforandroid.org/)
-- **支持平台**：Android
-
-### :pushpin: Clash Verge
-- **下载地址**：[GitHub备份](https://github.com/zzzgydi/clash-verge/releases)
-- **使用教程**：[https://clashverge.org/](https://clashverge.org/)
-- **支持平台**：Windows、macOS、Linux
-
-### :pushpin: ClashN
-- **下载地址**：[GitHub备份](https://github.com/2dust/clashN/releases)
-- **使用教程**：[https://getclashn.org/](https://getclashn.org/)
-- **支持平台**：Windows
+1. 在下方按系统选一个**仍在维护**的客户端  
+2. 打开对应 **GitHub Releases** 下载安装包  
+3. 导入你自己的订阅 / 配置后启动  
+4. 旧版 Clash for Windows / ClashX 等已停更，仅作存档，日常请换维护中的分支
 
 ---
 
-## :memo: Clash节点资源
+## 按平台选型
 
-### 扬帆云
-- **节点特色**：年付低至10元/月！高速IPLC专线机场，晚高峰不限速，解锁全球流媒体及AI工具！
-- **优惠购买**：[优惠购买链接](https://clashdev-github.affout.com/yangfanyun/)
-
-### 尔湾云
-- **节点特色**：年付低至9元/月！便宜IPLC专线机场，晚高峰不卡，完美解锁ChatGPT及流媒体！
-- **优惠购买**：[优惠购买链接](https://clashdev-github.affout.com/erwan/)
-
-### 大哥云
-- **节点特色**：年付低至7元/月！5年稳定老牌机场，国内高速中转隧道，解锁流媒体及ChatGPT工具！
-- **优惠购买**：[优惠购买链接](https://clashdev-github.affout.com/dageyun/)
-
-### 龙猫云
-- **节点特色**：年付低至15元/月！高品质IPLC高速专线加密隧道，解锁流媒体及ChatGPT等各类AI！
-- **优惠购买**：[优惠购买链接](https://clashdev-github.affout.com/totorocloud/)
-
-### 肥猫云
-- **节点特色**：年付低至6元/月！全专线中转隧道，高速大带宽不限设备数！高峰时段流媒体4K秒开！
-- **优惠购买**：[优惠购买链接](https://clashdev-github.affout.com/fatcatcloud/)
-
-### 更多Clash节点资源
-
-- [Clash订阅节点推荐](https://github.com/clash-latest/ClashNode)
-- [Clash机场推荐](https://clash.dev/node/)
+| 平台 | 优先推荐 | 备选 | 备注 |
+|------|----------|------|------|
+| Windows | [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [Clash Party](https://github.com/mihomo-party-org/clash-party/releases)、[FlClash](https://github.com/chen08209/FlClash/releases)、[Clash Mi](https://github.com/KaringX/clashmi/releases) | 桌面端选择最多 |
+| macOS | [ClashX Meta](https://github.com/MetaCubeX/ClashX.Meta/releases) | [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)、[Clash Party](https://github.com/mihomo-party-org/clash-party/releases) | Meta 系 macOS 客户端 |
+| Linux | [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [Clash Party](https://github.com/mihomo-party-org/clash-party/releases)、[FlClash](https://github.com/chen08209/FlClash/releases) | 注意发行版与架构 |
+| Android | [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [FlClash](https://github.com/chen08209/FlClash/releases)、[Clash Mi](https://github.com/KaringX/clashmi/releases) | 原 Clash for Android 已停更 |
+| iOS | [Clash Mi](https://github.com/KaringX/clashmi/releases) | [Hiddify](https://github.com/hiddify/hiddify-app/releases) | 以商店 / 官方说明为准 |
+| 多端统一 | [Clash Mi](https://github.com/KaringX/clashmi/releases)、[Hiddify](https://github.com/hiddify/hiddify-app/releases) | — | 同一套订阅跨设备时更省事 |
 
 ---
 
-## :office: Clash官网导航
+## 维护中客户端（下载与教程）
 
+### Clash Verge Rev
+- 发布页：[GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+- 教程：[clashverge.com](https://clashverge.com/) · 平台：Windows / macOS / Linux
+
+### Clash Party
+- 发布页：[GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases)
+- 教程：[clash-party.org](https://clash-party.org/) · 平台：Windows / macOS / Linux
+
+### Clash Mi
+- 发布页：[GitHub Releases](https://github.com/KaringX/clashmi/releases)
+- 教程：[clash-mi.org](https://clash-mi.org/) · 平台：Windows / macOS / Linux / iOS / Android
+
+### ClashX Meta
+- 发布页：[GitHub Releases](https://github.com/MetaCubeX/ClashX.Meta/releases)
+- 教程：[clashxmeta.org](https://clashxmeta.org/) · 平台：macOS
+
+### Clash Meta for Android
+- 发布页：[GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+- 教程：[clashmetaforandroid.org](https://clashmetaforandroid.org/) · 平台：Android
+
+### FlClash
+- 发布页：[GitHub Releases](https://github.com/chen08209/FlClash/releases)
+- 教程：[getflclash.org](https://getflclash.org/) · 平台：Windows / macOS / Linux / Android
+
+### Hiddify
+- 发布页：[GitHub Releases](https://github.com/hiddify/hiddify-app/releases)
+- 教程：[gethiddify.org](https://gethiddify.org/) · 平台：Windows / macOS / Linux / iOS / Android
+
+### Clash Nyanpasu
+- 发布页：[GitHub Releases](https://github.com/LibNyanpasu/clash-nyanpasu/releases)
+- 教程：[clashnyanpasu.org](https://clashnyanpasu.org/) · 平台：Windows / macOS / Linux
+
+### 其他仍在维护（补充）
+- [Bettbox](https://github.com/appshubcc/Bettbox/releases) · 教程 [getbettbox.org](https://getbettbox.org/)
+- [ClashBox](https://github.com/xiaobaigroup/ClashBox/releases)（Android）· 教程 [clashbox.org](https://clashbox.org/)
+- [Sparkle](https://github.com/xishang0128/sparkle/releases) · 教程 [getsparkle.org](https://getsparkle.org/)
 
 ---
 
-## :computer: Clash下载总览 (含备份仓库下载本地下载)
+## 安装要点（通用）
 
-| 客户端                    | 维护状态 | Windows | macOS | Linux | iOS | Android | 仓库 | 教程 |
-|------------------------|------|---------|-------|-------|-----|---------|----|----|
-| [Bettbox](https://getbettbox.org/?utm_source=github&utm_medium=clash-latest) | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :white_check_mark:       | [官方](https://github.com/appshubcc/Bettbox/releases) | [教程](https://getbettbox.org/?utm_source=github&utm_medium=clash-latest) |
-| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=clash-latest)      | :red_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [备份](https://github.com/clash-latest/Clash-for-Android) | [教程](https://clashforandroid.org/?utm_source=github&utm_medium=clash-latest) |
-| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=clash-latest)      | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [备份](https://github.com/clash-latest/Clash-for-Windows) | [教程](https://clashforwindows.org/?utm_source=github&utm_medium=clash-latest) |
-| [Clash Meta for Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=clash-latest) | :green_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [教程](https://clashmetaforandroid.org/?utm_source=github&utm_medium=clash-latest) |
-| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=clash-latest)               | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方](https://github.com/KaringX/clashmi/releases) | [教程](https://clash-mi.org/?utm_source=github&utm_medium=clash-latest) |
-| [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=clash-latest)         | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/LibNyanpasu/clash-nyanpasu/releases) | [教程](https://clashnyanpasu.org/?utm_source=github&utm_medium=clash-latest) |
-| [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=clash-latest)            | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/mihomo-party-org/clash-party/releases) | [教程](https://clash-party.org/?utm_source=github&utm_medium=clash-latest) |
-| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=clash-latest)            | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/zzzgydi/clash-verge/releases) | [教程](https://clashverge.org/?utm_source=github&utm_medium=clash-latest) |
-| [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=clash-latest)        | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [教程](https://clashvergerev.org/?utm_source=github&utm_medium=clash-latest) |
-| [ClashN](https://getclashn.org/?utm_source=github&utm_medium=clash-latest)                 | :red_circle:    | :white_check_mark:       | :x:     | :x:     | :x:   | :x:       | [官方](https://github.com/2dust/clashN/releases) | [教程](https://getclashn.org/?utm_source=github&utm_medium=clash-latest) |
-| [ClashBox](https://clashbox.org/?utm_source=github&utm_medium=clash-latest) | :green_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [官方](https://github.com/xiaobaigroup/ClashBox/releases) | [教程](https://clashbox.org/?utm_source=github&utm_medium=clash-latest) |
-| [ClashX](https://clashx.org/?utm_source=github&utm_medium=clash-latest)                 | :red_circle:    | :x:       | :white_check_mark:     | :x:     | :x:   | :x:       | [备份](https://github.com/clash-latest/ClashX) | [教程](https://clashx.org/?utm_source=github&utm_medium=clash-latest) |
-| [ClashX Meta](https://clashxmeta.org/?utm_source=github&utm_medium=clash-latest)            | :green_circle:    | :x:       | :white_check_mark:     | :x:     | :x:   | :x:       | [官方](https://github.com/MetaCubeX/ClashX.Meta/releases) | [教程](https://clashxmeta.org/?utm_source=github&utm_medium=clash-latest) |
-| [FlClash](https://getflclash.org/?utm_source=github&utm_medium=clash-latest)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :white_check_mark:       | [官方](https://github.com/chen08209/FlClash/releases) | [教程](https://getflclash.org/?utm_source=github&utm_medium=clash-latest) |
-| [Hiddify](https://gethiddify.org/?utm_source=github&utm_medium=clash-latest)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方](https://github.com/hiddify/hiddify-app/releases) | [教程](https://gethiddify.org/?utm_source=github&utm_medium=clash-latest) |
-| [Sparkle](https://getsparkle.org/?utm_source=github&utm_medium=clash-latest)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/xishang0128/sparkle/releases) | [教程](https://getsparkle.org/?utm_source=github&utm_medium=clash-latest) |
+1. **只从官方 Releases 或本页列出的备份仓下载**，避免来路不明的「破解包」。  
+2. Windows 如遇 SmartScreen / 杀软误报，先核对发布页校验信息，再决定是否放行。  
+3. macOS 首次打开若被拦截：系统设置 → 隐私与安全性 → 仍要打开。  
+4. 导入订阅后先测延迟，再开系统代理 / TUN；规则与分流以你所用配置为准。  
+5. 系统代理与 VPN/TUN 模式不要混用多个同类工具，容易冲突。
 
+---
+
+## 已停更（仅备份，不建议日常使用）
+
+| 客户端 | 备份 / 原仓库 | 教程 |
+|--------|----------------|------|
+| Clash for Windows | [clash-latest/Clash-for-Windows](https://github.com/clash-latest/Clash-for-Windows) | [clashforwindows.org](https://clashforwindows.org/) |
+| ClashX | [clash-latest/ClashX](https://github.com/clash-latest/ClashX) | [clashx.org](https://clashx.org/) |
+| Clash for Android | [clash-latest/Clash-for-Android](https://github.com/clash-latest/Clash-for-Android) | [clashforandroid.org](https://clashforandroid.org/) |
+| Clash Verge（原版） | [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge/releases) | [clashverge.org](https://clashverge.org/) |
+| ClashN | [2dust/clashN](https://github.com/2dust/clashN/releases) | [getclashn.org](https://getclashn.org/) |
+
+---
+
+## 节点与订阅（可选）
+
+本仓库不托管节点。若需要付费机场，可参考下列页面（含优惠链接，请自行甄别稳定性与合规性）：
+
+| 名称 | 简介 | 链接 |
+|------|------|------|
+| 扬帆云 | IPLC 专线向 | [优惠入口](https://clashdev-github.affout.com/yangfanyun/) |
+| 尔湾云 | 性价比专线向 | [优惠入口](https://clashdev-github.affout.com/erwan/) |
+| 大哥云 | 老牌中转向 | [优惠入口](https://clashdev-github.affout.com/dageyun/) |
+| 龙猫云 | 高品质专线向 | [优惠入口](https://clashdev-github.affout.com/totorocloud/) |
+| 肥猫云 | 大带宽专线向 | [优惠入口](https://clashdev-github.affout.com/fatcatcloud/) |
+
+更多整理：[ClashNode](https://github.com/clash-latest/ClashNode) · [clash.dev/node](https://clash.dev/node/)
+
+---
+
+## 常见问题
+
+**Q：Clash 和 Mihomo、Clash Meta 是什么关系？**  
+A：社区在原 Clash 停更后，大量客户端改用 Mihomo（Clash Meta）等兼容内核。本页「维护中」列表以这类活跃项目为主。
+
+**Q：为什么不直接提供安装包附件？**  
+A：版本迭代快，附件易过期。以各项目 GitHub Releases 为准最稳妥。
+
+**Q：iOS 能不能随便下 IPA？**  
+A：不建议。请按官方文档或商店渠道安装，避免来路不明的包。
+
+**Q：标题里的月份和徽章谁来改？**  
+A：由例行任务自动更新 `YYYY年M月` 与 `Update-YYYY.MM`，请保持这两种格式不要改乱。
+
+---
+
+## 免责声明
+
+- 本页仅为开源客户端与资源的**索引与导航**，不提供绕过审查、侵犯版权或从事违法活动的服务或教程。  
+- 请遵守你所在地区的法律法规及服务条款；因使用第三方客户端、订阅或节点产生的风险与后果由使用者自行承担。  
+- 第三方网站、机场与优惠链接的内容、价格、可用性随时可能变化，本仓库不作担保。  
