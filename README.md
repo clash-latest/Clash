@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://github.com/clash-latest/Clash" title="Clash官网资源最新版Clash下载">
+  <a href="https://github.com/clash-latest/Clash" title="Clash 最新版资源索引">
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/89eb8f22-a41f-464c-8032-b63848df9155" />
 
   </a>
-  <h1>Clash官网资源最新版Clash下载 (2026年11月更新)</h1>
+  <h1>Clash 最新版资源索引 (2026年11月更新)</h1>
   <p>
-    <b>Clash全平台官网资源最新版Clash下载 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>按系统汇总仍在维护的客户端 Releases，优先官方源</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.11-brightgreen.svg" alt="Update">
@@ -14,7 +14,7 @@
   </p>
 </div>
 
-> 本仓库按「Clash官网资源最新版Clash下载」整理全平台入口，优先链到各项目官方 GitHub Releases；停更客户端仅作备份对照。若本页对你有用，欢迎 Star ⭐。
+> 本仓库按「Clash 最新版资源索引」整理全平台入口，优先链到各项目官方 GitHub Releases；停更客户端仅作备份对照。若本页对你有用，欢迎 Star ⭐。
 
 相关：[代理雷达](https://github.com/guiforcores/dailileida)（按 Star / 商店评分追踪主流代理客户端热度）
 
