@@ -18,6 +18,8 @@
 
 相关：[代理雷达](https://github.com/guiforcores/dailileida)（按 Star / 商店评分追踪主流代理客户端热度）
 
+[节点雷达](https://jiedianleida.com/)：免费 V2Ray / Clash / SS / Trojan 节点日更测速索引，装好客户端后可先在这里扫延迟再挑订阅。
+
 ---
 
 ## 一句话怎么用
